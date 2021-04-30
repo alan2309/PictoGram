@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "764604198118",
+    "project_id": "pictogram-52513",
+    "storage_bucket": "pictogram-52513.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764604198118:android:f4c1bd52b7d3e52e0c1f27",
+        "android_client_info": {
+          "package_name": "com.Alankrit.PictoGram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764604198118-4pb7tpgjhccla94pcu63r63ts82c1den.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf-7dK_8I9RS7PnmbIB_T6AEdE7O16bmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764604198118-4pb7tpgjhccla94pcu63r63ts82c1den.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
